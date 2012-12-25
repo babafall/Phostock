@@ -11,7 +11,7 @@ Please sorry, it's dirty too much. There was 3 iterations by 2 weeks each, many 
 
 Frameworks
 ========
-This application is using next frameworks (and says "Thank you very much to authors")
+This application is using next frameworks (and says "Thank you very much" to authors)
 * https://github.com/BradLarson/GPUImage
 * https://github.com/AFNetworking/AFNetworking
 * https://github.com/stig/json-framework/
