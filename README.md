@@ -17,3 +17,4 @@ This application is using next frameworks (and says "Thank you very much" to aut
 * https://github.com/rs/SDURLCache
 * https://github.com/jakemarsh/JMImageCache
 * https://github.com/alekseyn/EasyTableView
+* https://github.com/thesecretlab/UIView-Glow
