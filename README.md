@@ -14,3 +14,6 @@ This application is using next frameworks (and says "Thank you very much" to aut
 * https://github.com/BradLarson/GPUImage
 * https://github.com/AFNetworking/AFNetworking
 * https://github.com/johnezang/JSONKit
+* https://github.com/rs/SDURLCache
+* https://github.com/jakemarsh/JMImageCache
+* https://github.com/alekseyn/EasyTableView
