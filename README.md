@@ -21,7 +21,7 @@ This application is using next frameworks (and says "Thank you very much" to aut
 
 License
 ========
-You can publish modificated version of your applications (free or commercial), but you should reference to my sources.
+You can publish modificated version of this application (free or commercial), but you should reference to my sources.
 
 Phostock
 Copyright (C) 2012-2013 Roman Truba
