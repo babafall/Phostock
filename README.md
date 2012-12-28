@@ -1,7 +1,7 @@
 Phostock
 ========
 
-Instagram-like application for filter photos and using social platform Airshipdock. Was written for VK.com contest http://vk.com/photo_contest
+Instagram-like iOS-application for filter photos and using social platform Airshipdock. Was written for VK.com contest http://vk.com/photo_contest
 
 
 About sources
